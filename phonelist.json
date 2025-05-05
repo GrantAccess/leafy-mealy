@@ -1,0 +1,13 @@
+  {
+    "phonelist": {
+      "Homer": {
+        "cell":"0555 234987",
+        "employ":"Neuclear Power"},
+      "Marge":"0555 945672",
+      "Bart": {
+        "cell":"0555 582690",
+        "employ":"Student"},
+      "Lisa":"0555 835619",
+      "Maggie":null}
+  }
+  
