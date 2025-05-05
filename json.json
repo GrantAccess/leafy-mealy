@@ -10,13 +10,14 @@
   "big number": 1.2e+100,
  
   "objects": {
-    "comment": "Most of your structure will come from objects.",
+    "comment": "There are no 'human readable' comments in the code, all lines must pass. So most of your structure will come from objects.",
  
     "array": [0, 1, 2, 3, "Arrays can have anything in them.", 5],
      
     "link": [
       "https://learnxinyminutes.com/json/",
       "https://json.org/",
+      "https://github.com/GrantAccess/leafy-mealy/blob/main/json.json",
       "https://codebeautify.org/online-json-editor",
       "https://www.youtube.com/watch?v=wI1CWzNtE-M",
       "https://www.w3schools.com/js/js_json_datatypes.asp"
