@@ -6,7 +6,7 @@
           "ken.smith.9210",{
             "many":"1/2",
             "fbpage": "https://www.facebook.com/ken.smith.9210",
-            "#friends":891
+            "#friends":612
             },
           
           "61573758103699",{
@@ -14,9 +14,21 @@
             "fbpage": "https://www.facebook.com/profile.php?id=61573758103699",
             "#friends":891
           }
-          
             ],
-        "Dave"
+            
+        "John", [
+          "thejohnsmith",{
+            "many":"1/2",
+            "fbpage": "https://www.facebook.com/thejohnsmith",
+            "#followers":37000
+            },
+          
+          "jmc.jmc.520125",{
+            "many":"2/2",
+            "fbpage": "https://www.facebook.com/jmc.jmc.520125",
+            "#friends":1000
+          }
+            ]
         ],
     
         
