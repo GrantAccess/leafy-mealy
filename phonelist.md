@@ -6,6 +6,8 @@ This is a "I know what about" table
 | ----- | ------ | ------------- |
 | Homer | cell   | 0555 945672   |
 | Homer | employ | Nuclear Power |
+| Bart  | cell   | 0555 582690   |
+| Bart  | employ | Student       | 
 
 
 ``` json  
