@@ -7,13 +7,15 @@ This is a "I know what about" table
 | Homer  | cell   | 0555 945672   |
 | Homer  | employ | Nuclear Power |
 | Bart   | cell   | 0555 582690   |
+| Bart   | Surname | Simpson |
 | Bart   | employ | Student       |
 | Bart   | sister | Lisa, Maggie  |
-| Bart   | brother | null  | 
+| Bart   | brother | null  |  
 | Marge  | cell   | 0555 945672   | 
 | Lisa   | cell   | 0555 835619   | 
 | Maggie | cell   | null          |
-
+| Simpson | family   | Homwer, Marge, Bart, Lisa, Maggie |
+| Simpson | address  | Springfield |
 
 ``` json  
   {
